@@ -1,0 +1,1 @@
+print("vrishabh is good boy \n he is very intelligent and 'h ardworking' ")
