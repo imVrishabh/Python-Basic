@@ -6,7 +6,7 @@ if(a>18):
     print("You are eligible to vote")
 
 elif(a<0):
-    print("you are entering wrong age  ")
+    print("you are entering wrong age")
 
 elif(a==0):
     print("its not possible to have age")
