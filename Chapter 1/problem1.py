@@ -1,5 +1,4 @@
 # print a poem
-
 print('''Twinkle, twinkle, dragon bright,
 Soaring softly through the night.
 Mermaids sing and fairies play,
