@@ -8,7 +8,7 @@ is_spam= False
 for keyword in spam_keywords:
     if keyword in comment:
         is_spam= True
-        break   
+        break
 if is_spam:
     print("This comment is spam.")
 else:
