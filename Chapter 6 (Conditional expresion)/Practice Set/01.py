@@ -15,4 +15,3 @@ elif(c>a) and (c>b) and (d>c):
     print("Greatest number is d:",d)
 elif(d>a) and (d>b) and (d>c):
     print("Greatest number is d:",d)
-
