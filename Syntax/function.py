@@ -33,3 +33,31 @@ def getAnswer(answerNumber):
 r = random.randint(1,9)
 fortune = getAnswer(r)
 print(fortune)
+
+
+'''///'''
+'''
+print('Hello', end='')
+print('world)
+'''
+
+'''///'''
+
+'''
+print('cats', 'dogs', 'mice')
+print('cats', 'dogs', 'mice', sep=',')
+'''
+
+
+
+'''///'''
+'''in this method you cant use the function outside of the variable'''
+
+def spam():
+    global eggs
+    eggs = 'eggs'
+
+eggs= 'global'
+spam()
+print(eggs)
+
